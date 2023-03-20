@@ -5,7 +5,7 @@
     const btn = document.querySelector('#btnCalcular');
     const pResultado = document.querySelector('#result');
 
-    /*
+    
     btn.addEventListener('click',btnOnClick);
 
     function btnOnClick()
@@ -13,7 +13,7 @@
         const resultado = Number(input1.value) + Number(input2.value);
         pResultado.innerText= 'Resultado: ' + resultado;
     }
-    */
-
     
+
+
 
